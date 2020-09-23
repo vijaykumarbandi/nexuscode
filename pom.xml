@@ -2,7 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mcnz.maven.example</groupId>
   <artifactId>maven-tutorial</artifactId>
-  <packaging>jar</packaging>
   <version>1.0.2-SNAPSHOT</version>
   
   <pluginRepositories>
@@ -27,7 +26,7 @@
                     </goals>
                     <configuration>
                         <publisher>
-                            <contextUrl>http://192.168.33.10:8081/repository/vijay</contextUrl>
+                            <contextUrl>http://192.168.33.10:8081/repository/latha</contextUrl>
                             <username>admin</username>
                             <password>Hema@6594</password>
                             <repoKey>libs-release-local</repoKey>
