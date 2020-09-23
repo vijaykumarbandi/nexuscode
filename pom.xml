@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mcnz.maven.example</groupId>
   <artifactId>maven-tutorial</artifactId>
+  <packaging>jar</packaging>
   <version>1.0.2-SNAPSHOT</version>
   
   <pluginRepositories>
