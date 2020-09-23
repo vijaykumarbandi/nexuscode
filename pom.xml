@@ -26,9 +26,9 @@
                     </goals>
                     <configuration>
                         <publisher>
-                            <contextUrl>http://localhost:8081/artifactory</contextUrl>
+                            <contextUrl>http://192.168.33.10:8081/repository/vijay</contextUrl>
                             <username>admin</username>
-                            <password>85Clover</password>
+                            <password>Hema@6594</password>
                             <repoKey>libs-release-local</repoKey>
                             <snapshotRepoKey>libs-snapshot-local</snapshotRepoKey>
                         </publisher>
