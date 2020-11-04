@@ -26,7 +26,7 @@
                     </goals>
                     <configuration>
                         <publisher>
-                            <contextUrl>http://192.168.33.10:8081/repository/latha</contextUrl>
+                            <contextUrl>http://192.168.33.10:8081/repository/nexrepo</contextUrl>
                             <username>admin</username>
                             <password>Hema@6594</password>
                             <repoKey>libs-release-local</repoKey>
